@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  min-width: 600px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+section {
+  width: 100%;
+  background-color: green;
+}
+
+#actuel, #ascendant, #descendant {
+  background-color: rgb(247,247,250);
+}
+
+#ascendant div, #descendant div {
+  background-color: rgb(255,255,255);
+  background-color: white;
+}

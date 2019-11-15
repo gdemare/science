@@ -11,13 +11,7 @@ hierarchie = [
 //----------------------------------------------
 // importer les fichiers
 var url = 'https://raw.githubusercontent.com/gdemare/science/master/data/data.json';
-$.getJSON(url, function(data) {
-  dataContenu(select);
-  fctLiens();
-  fctHierarchie();
-  fctAsceDesce();
 
-});
 
 
 //----------------------------------------------
@@ -97,7 +91,10 @@ for (var i = ascdesc.length - 1; i >= 0; i--) {
 //----------------------------------------------
 // Partie test
 var select = "CON1";
-
+dataContenu(select);
+fctLiens();
+fctHierarchie();
+fctAsceDesce();
 
 //##############################################
 })
