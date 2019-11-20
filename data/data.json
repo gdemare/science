@@ -20,5 +20,12 @@
 		},
 		"IDE2" : {
 			"contenu" : "Les chimpanzés encouragent les petits durant leurs premier pas avec des mouvements de lèvres."
-	}} 
+	}},
+	"liens" : [
+		["DOM1", "CON1"],
+		["CON2", "DOM1"],
+		["IDE1", "CON1"],
+		["CON2", "IDE2"],
+		["DOM2", "CON1"]
+	] 
 }
