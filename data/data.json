@@ -271,7 +271,7 @@
 	    "SCI9" : { "annee": "", "pays": "", "contenu": "Des chercheur ont apprenti à des singe verts à associé le cri de l'aigle au comportement du serpent."},
 	    "SCI10" : {  "annee": "1941", "pays": "USA, Havard", "contenu": "des étudiants réalisent une thèse Harvard et invent à l'occasion un mot pour désigner ce mode de représentation du monde : l'echolocalisation."}
 	},
-	"liens" : {
+	"liens" : [
 		['CON1', 'DOM1'],
 		['CON1', 'DOM2'],
 		['CON1', 'DOM6'],
@@ -481,5 +481,5 @@
 		['OBS92', 'IDE91'],
 		['OBS93', 'IDE91'],
 		['SCI1', 'A19961']
-	}
+	]
 }
