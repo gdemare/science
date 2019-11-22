@@ -2,13 +2,14 @@
 	"CON" : {
 	    "CON1" : { "contenu": "Biodiversite est la diversite au coeur du vivant."},
 	    "CON2" : { "contenu": "Ecologie est l'etude des etres vivants et leurs relations entre eux."},
-	    "CON3" : { "contenu": "democratie exprimee est un regime politique representatif ou les besoins de chacun sont pris en compte."},
+	    "CON3" : { "contenu": "Democratie exprimée est un regime politique representatif ou les besoins de chacun sont pris en compte."},
 	    "CON4" : { "contenu": "Cette première partie de la vie se situe avant l'acquisition de la parole (cela consistue souvent les 1000 premiers jours d'un bébé)."},
 	    "CON5" : { "contenu": "Pour un même environement, la perception d'un environement par des espèces différentes sont très différentes."},
 	    "CON6" : { "contenu": "Les deux moteurs de l'evolution sont la selection sexuelle et naturelle. "},
 	    "CON7" : { "contenu": "Le corps et l'esprit meme chose vu de maniere différentes."},
-	    "CON8" : { "contenu": "Amour et sexualité"},
-	    "CON9" : { "contenu": "La mort"}
+	    "CON8" : { "contenu": "Amour et sexualité."},
+	    "CON9" : { "contenu": "La mort."},
+	    "CON10" : { "contenu" : "La place de l'être humain"}
 	},
 	"DOM" : {
 	    "DOM1" : {"contenu": "Epigenetique, c'est l'influence de l'environement sur les genes."},
@@ -468,6 +469,7 @@
 		["OBS91", "IDE91"],
 		["OBS92", "IDE91"],
 		["OBS93", "IDE91"],
-		["SCI1", "A19961"]
+		["SCI1", "A19961"],
+		["CON10", "DOM19"]
 	]
 }
