@@ -5,21 +5,158 @@ body {
   font-weight: lighter;
   min-width: 600px;
   height: 100%;
+}
+
+/*************************
+global strurcture
+/*************************/
+
+nav {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  align-items:flex-end;
+  z-index: 2;
+  top: 0px;
+  right: 0px;
+  padding-top: 0.2cm;
+  padding-bottom: 0.2cm;
+  color: var(--color-write);
+  padding-left: 4em;
+  padding-right: 4em;
+  background-color: var(--color-nav);
+  border-bottom: 1px solid var(--color-bouton);
+}
+  
+.boutonsZone {
+  display: flex;
+  flex-direction: row;
+}
+
+.boutonsBox {
   display: flex;
   flex-direction: column;
-  align-content: center;
+  text-align: center; 
+  background-color: var(--color-bouton);
+  margin-right: 1em;
+  border-radius: 0.2em;
+}
+
+.circle {
+  padding: 0.15cm;
+  border-radius: 1.2em;
+}
+
+.boutonsBox i {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2em;
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.square {
+  padding: 0cm;
+  border-radius: 1.2em;
+} 
+
+.boutonsSub {
+  flex: 1;
+  display: flex;
+  height: 1.2em;
+  flex-direction: row;
+}
+
+.boutonClic:first-child {
+  border-top-left-radius: 1.2em;
+  border-bottom-left-radius: 1.2em;
+}
+
+.boutonClic {
+  padding-left: 1em;
+  padding-right: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--color--boiteH2); 
+}
+
+.boutonClic:last-child {
+  border-top-right-radius: 1.2em;
+  border-bottom-right-radius: 1.2em;
+}
+
+.boutonClic:hover, .circle:hover {
+  cursor: pointer;
+  color: white;
+  background-color: var(--color-degrade1);
+  /*background: linear-gradient(to right, var(--color-degrade1), var(--color-degrade2));*/
+}
+
+header {
+  flex-grow: 1;
+  font-weight: bold; 
+  text-transform : capitalize;
+}
+
+/*************************
+page
+/*************************/
+
+/*contenu de la page*/
+#page {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  flex: 1;
+  z-index: 1;
+  background-color: var(--color-fond);
+  box-shadow:-5px 0px 10px rgb(243,243,243);
+  padding-left: 4em;
+  padding-right: 4em;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  padding-top: 1em;
+}
+
+h2 {
+  color: var(--color-boiteH2);
+}
+
+#actuel {
+  padding-bottom: 0.5em;
+  color: var(--color-write); 
+  border-bottom: 2px solid var(--color-bouton);
 }
 
 section {
-  width: 100%;
-  background-color: green;
+  flex-direction: column;
 }
 
-#actuel, #ascendant, #descendant {
-  background-color: rgb(247,247,250);
+#defaut div, #ascendant div, #descendant div {
+  background-color: var(--color-boite);
+  color: var(--color-boiteH2); 
+  padding: 0.5em;
+  margin-bottom: 0.1cm;
+  border-radius: 0.2em;
 }
 
-#ascendant div, #descendant div {
-  background-color: rgb(255,255,255);
-  background-color: white;
+#defaut div:hover, #ascendant div:hover, #descendant div:hover {
+  background-color: var(--color-degrade1);
+  color: white;
+  cursor: pointer;
+}
+
+span {
+  display: flex;
+  border: 2px solid var(--color-bouton);
+  border-radius: 0.1cm;
+  width: fit-content;
+  padding-left: 0.1cm; 
+  padding-right: 0.1cm;
+  margin-bottom: 0.2cm;
 }
