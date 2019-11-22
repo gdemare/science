@@ -1,7 +1,31 @@
-[
-	["DOM1", "CON1"],
-	["CON2", "DOM1"],
-	["IDE1", "CON1"],
-	["CON2", "IDE2"],
-	["DOM2", "CON1"]
-]
+{
+	"CON" : {
+		"CON1" : {
+		"contenu" : "Une espèce est sur Terre représente 0,0004%."
+		},
+		
+		"CON2" : {
+		"contenu" : "Le tadigrade resiste au milieu toxique, à des temperatures comprise entre -275 et 170, au vide et au rayon-X."
+	}},
+	"DOM" : { 
+		"DOM1" : {
+		"contenu" : "La loutre relache des proies vivantes pour permettre à ses petits de s'entrainer à chasser."
+		},
+		"DOM2" : {
+		"contenu" : "Les suricates progression dans la novueirriture scorpion mort, scorpion vivan masi sans l'aiguillion, scorpion vivant. "
+	}},
+	"IDE" : {
+		"IDE1" : {
+			"contenu" : "L'encouragement des nouveaux nées est présent chez les animaux. "
+		},
+		"IDE2" : {
+			"contenu" : "Les chimpanzés encouragent les petits durant leurs premier pas avec des mouvements de lèvres."
+	}},
+	"liens" : [
+		["DOM1", "CON1"],
+		["CON2", "DOM1"],
+		["IDE1", "CON1"],
+		["CON2", "IDE2"],
+		["DOM2", "CON1"]
+	] 
+}
