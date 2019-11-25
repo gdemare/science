@@ -39,6 +39,8 @@ function RequeteDefaut () {
   document.getElementsByClassName('asc')[1].style = "display: none;";
   document.getElementsByClassName('desc')[0].style = "display: none;";
   document.getElementsByClassName('asc')[1].style = "display: none;";
+  document.getElementById('ascendant').innerHTML = "";
+  document.getElementById('descendant').innerHTML = "";
 
 
     console.log('----------------------------------------------');
