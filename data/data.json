@@ -138,10 +138,10 @@
 	    "IDE87" : { "contenu": "Le super-continent Pangée s'est fragementé."},
 	    "IDE88" : { "contenu": "La collaboration entre les hommes et les animaux."},
 	    "IDE89" : { "contenu": "Le vivant sur Terre à vécu cinq crises majeurs d'extinction."},
-	    "IDE90" : { "contenu": "La majorité des espèces ont disparu"},
+	    "IDE90" : { "contenu": "La majorité des espèces ont disparue."},
 	    "IDE91" : { "contenu": "L'Homme ne dispose pas de capacités physioliques exceptionnelles."},
 	    "IDE92" : { "contenu" : "La séduction par le chant."},
-	    "IDE93" : { "contenu" : "Le monde des grenouilles et des crapauds"}
+	    "IDE93" : { "contenu" : "Le monde des grenouilles et des crapauds."}
 	},
 	"MEC" : {
 	    "MEC2" : { "contenu" : "Les cellules souches embryonnaires ont accès à tous les genes."},
@@ -158,7 +158,7 @@
 	    "MEC15" : { "contenu" : "Activer les genes qui protegent la cellules de l'autodestruction."},
 	    "MEC16" : { "contenu" : "La chimiotherapie consiste déclenche l'auto destruction de la cellule. Un traitement efficace activera uniquement la mort cellulaires chez les cancereuses."},
 	    "MEC17" : { "contenu" : "Les parasites et les germes sont tués par la chaleur."},
-	    "MEC18" : { "contenu" : "Les males grenouilles remplissent et dégonfle d'air deux packs vocaux situés des deux cotés pour produire le chant." } 
+	    "MEC18" : { "contenu" : "Les males grenouilles remplissent et dégonfle d'air deux packs vocaux situés des deux cotés pour produire le chant."} 
 	},
 	"OBS" : {
 	    "OBS1" : {"contenu": "Le sexe du crocodile est determine par la temperature d'expostion de l'oeuf.  "},
@@ -256,7 +256,7 @@
 	    "OBS93" : { "contenu": "Le tadigrade resiste au milieu toxique à des temperatures comprise entre -275 et 170, au vide et aux rayons-X."},
 	    "OBS94" : { "contenu": "Le chant de certaines grenouilles peut être entendu à plus d'un kilomètre."},
 	    "OBS95" : { "contenu": "Il existe 6 000 espèces de crapauds et de grenouilles."},
-	    "OBS96" : { "contenu": "Le plus petit vertébré connu est une grenouille de Papouasie qui mesure 7mm à l'âge adulte."},
+	    "OBS96" : { "contenu": "Le plus petit vertébré connu est une grenouille de Papouasie qui mesure 7mm à l'âge adulte."}
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
