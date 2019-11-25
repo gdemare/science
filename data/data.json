@@ -1,18 +1,16 @@
 {
 	"CON" : {
-	    "CON1" : { "contenu": "Biodiversite est la diversite au coeur du vivant."},
-	    "CON2" : { "contenu": "Ecologie est l'etude des etres vivants et leurs relations entre eux."},
-	    "CON3" : { "contenu": "Democratie exprimée est un regime politique representatif ou les besoins de chacun sont pris en compte."},
-	    "CON4" : { "contenu": "Cette première partie de la vie se situe avant l'acquisition de la parole (cela consistue souvent les 1000 premiers jours d'un bébé)."},
-	    "CON5" : { "contenu": "Pour un même environement, la perception d'un environement par des espèces différentes sont très différentes."},
-	    "CON6" : { "contenu": "Les deux moteurs de l'evolution sont la selection sexuelle et naturelle. "},
-	    "CON7" : { "contenu": "Le corps et l'esprit meme chose vu de maniere différentes."},
-	    "CON8" : { "contenu": "Amour et sexualité."},
+	    "CON1" : { "contenu": "La biodiversite est la diversite au coeur du vivant."},
+	    "CON4" : { "contenu": "L'enfance"},
+	    "CON5" : { "contenu": "Les perceptions et représentations du monde"},
+	    "CON6" : { "contenu": "La selection sexuelle et naturelle."},
+	    "CON7" : { "contenu": "Le corps et l'esprit"},
+	    "CON8" : { "contenu": "L'amour et la sexualité."},
 	    "CON9" : { "contenu": "La mort."},
 	    "CON10" : { "contenu" : "La place de l'être humain"},
 	    "CON11" : { "contenu" : "Les origines de la vie."},
 	    "CON12" : { "contenu" : "Conscience et inconscience."},
-	    "CON13" : { "contenu" : "Les liens qui nous rattachent aux autres"}
+	    "CON13" : { "contenu" : "Les liens qui nous rattachent aux autres."}
 	},
 	"DOM" : {
 	    "DOM1" : {"contenu": "Epigenetique, c'est l'influence de l'environement sur les genes."},
