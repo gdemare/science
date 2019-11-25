@@ -50,8 +50,11 @@
 	    "DOM35" : { "contenu": "Une Terre en constante mutation"},
 	    "DOM36" : { "contenu": "La symbiose"},
 	    "DOM37" : { "contenu": "Destruction et reconstruction du vivant sur la Terre"},
-	    "DOM38" : { "contenu" : "La séduction"},
-	    "DOM40" : { "contenu" : "Le monde des genres."}
+	    "DOM38" : { "contenu" : "La séduction."},
+	    "DOM40" : { "contenu" : "Le monde des genres."},
+	    "DOM41" : { "contenu" : "La coévolution."},
+	    "DOM42" : { "contenu" : "Le monde des plantes."},
+	    "DOM43" : { "contenu" : "Le monde des abeilles."} 
 	},
 	"IDE" : {
 	    "IDE1" : { "contenu": "L'environnement modifie les gene actifs des cellules."},
@@ -141,7 +144,10 @@
 	    "IDE90" : { "contenu": "La majorité des espèces ont disparue."},
 	    "IDE91" : { "contenu": "L'Homme ne dispose pas de capacités physioliques exceptionnelles."},
 	    "IDE92" : { "contenu" : "La séduction par le chant."},
-	    "IDE93" : { "contenu" : "Le monde des grenouilles et des crapauds."}
+	    "IDE93" : { "contenu" : "Le monde des grenouilles et des crapauds."},
+	    "IDE94" : { "contenu" : "La symbiose entre les plantes et les abeilles"},
+	    "IDE95" : { "contenu" : "Les plantes à fleur"},
+	    "IDE96" : { "contenu" : "Abeilles et bourdon"}
 	},
 	"MEC" : {
 	    "MEC2" : { "contenu" : "Les cellules souches embryonnaires ont accès à tous les genes."},
@@ -256,7 +262,10 @@
 	    "OBS93" : { "contenu": "Le tadigrade resiste au milieu toxique à des temperatures comprise entre -275 et 170, au vide et aux rayons-X."},
 	    "OBS94" : { "contenu": "Le chant de certaines grenouilles peut être entendu à plus d'un kilomètre."},
 	    "OBS95" : { "contenu": "Il existe 6 000 espèces de crapauds et de grenouilles."},
-	    "OBS96" : { "contenu": "Le plus petit vertébré connu est une grenouille de Papouasie qui mesure 7mm à l'âge adulte."}
+	    "OBS96" : { "contenu": "Le plus petit vertébré connu est une grenouille de Papouasie qui mesure 7mm à l'âge adulte."},
+	    "OBS97" : { "contenu": "Il a été recensé 140 120 symbioses entre les plantes à fleurs et les abeilles."},
+	    "OBS98" : { "contenu": "Il existe 350 000 expèces de plantes à fleur."},
+	    "OBS99" : { "contenu": "Il existe 20 000 especes d'abeilles."}
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
@@ -494,6 +503,20 @@
 		["IDE92", "OBS94"],
 		["DOM40", "IDE93"],
 		["IDE93", "OBS95"],
-		["IDE93", "OBS96"]
+		["IDE93", "OBS96"],
+		["DOM13", "IDE93"],
+		["DOM41", "CON13"],
+		["CON1", "DOM41"],
+		["DOM41", "IDE94"],
+		["OBS97", "IDE94"],
+		["CON5", "DOM42"],
+		["IDE94", "DOM42"],
+		["IDE95", "DOM42"],
+		["IDE95", "OBS98"],
+		["DOM43", "IDE96"],
+		["CON5", "DOM43"],
+		["OBS99", "IDE96"],
+		["IDE94", "DOM42"],
+		["IDE94", "DOM43"]
 	]
 }
