@@ -53,7 +53,7 @@ function RequeteDefaut () {
         defautHMTL = "";
 
     for (var i = listeIdDefaut.length - 1; i >= 0; i--) {
-      defautHMTL = defautHMTL + "<div id='" + listeIdDefaut[i] + "' >" + data[defaut][listeIdDefaut[i]].contenu  + "</div>";
+      defautHMTL = defautHMTL + "<div id='" + listeIdDefaut[i] + "' >" + "<span>" + listeIdDefaut[i]+ "</span>" + data[defaut][listeIdDefaut[i]].contenu  + "</div>";
     }
     document.getElementById('defaut').innerHTML = defautHMTL;
 
