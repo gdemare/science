@@ -79,7 +79,7 @@
 	    "IDE30" : { "contenu": "La coexistence"},
 	    "IDE31" : { "contenu": "La coevolution"},
 	    "IDE32" : { "contenu": "La mort cellulaire sculte les etres vivants."},
-	    "IDE33" : { "contenu": "Les regions du cerveaux sont interdependantes et capables de changer de role."},
+	    "IDE33" : { "contenu": "Les regions du cerveaux sont interdépendantes et capables de changer de role."},
 	    "IDE34" : { "contenu": "La mort cellulaire est un phenome d'adaption de l'organisme a un environnement interne et externe."},
 	    "IDE35" : { "contenu": "La mort cellulaire est un phenome periodique."},
 	    "IDE36" : { "contenu": "Des déreglement des systemes des phénoménes d'auto destruction des cellules entrainent des maladies."},
@@ -94,7 +94,7 @@
 	    "IDE45" : { "contenu": "Le feu a facilité l'accés à la nourriture. La cuisine a permis de rendre des aliments digestes."},
 	    "IDE46" : { "contenu": "Les réseaux mirroirs miment les personnes qui nous entourent pour comprendre et se mettre à la place d'autrui."},
 	    "IDE47" : { "contenu": "Ecouter, comprendre c'est en anticiper le déroulement."},
-	    "IDE48" : { "contenu": "L'anticipation et l'adaption peut permettre l'emergeance de la nouveauté."},
+	    "IDE48" : { "contenu": "L'anticipation et l'adaption peut permettre l'emergence de la nouveauté."},
 	    "IDE49" : { "contenu": "La capacité à utiliser des outils."},
 	    "IDE50" : { "contenu": "La conscience de soi est la capacité a savoir que etee soi"},
 	    "IDE51" : { "contenu": "La capacité de deviner les attentions de l'autre ou théorie de l'esprit."},
@@ -476,6 +476,7 @@
 		["CON10", "DOM20"],
 		["CON10", "DOM5"],
 		["CON11", "DOM4"],
-		["CON12", "DOM18"]
+		["CON12", "DOM18"],
+		["CON1", "DOM36"]
 	]
 }
