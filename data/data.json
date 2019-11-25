@@ -1,13 +1,13 @@
 {
 	"CON" : {
-	    "CON1" : { "contenu": "La biodiversite est la diversite au coeur du vivant."},
-	    "CON4" : { "contenu": "L'enfance"},
-	    "CON5" : { "contenu": "Les perceptions et représentations du monde"},
+	    "CON1" : { "contenu": "La biodiversite."},
+	    "CON4" : { "contenu": "L'enfance."},
+	    "CON5" : { "contenu": "Les perceptions et représentations du monde."},
 	    "CON6" : { "contenu": "La selection sexuelle et naturelle."},
-	    "CON7" : { "contenu": "Le corps et l'esprit"},
+	    "CON7" : { "contenu": "Le corps et l'esprit;"},
 	    "CON8" : { "contenu": "L'amour et la sexualité."},
 	    "CON9" : { "contenu": "La mort."},
-	    "CON10" : { "contenu" : "La place de l'être humain"},
+	    "CON10" : { "contenu" : "La place de l'être humain."},
 	    "CON11" : { "contenu" : "Les origines de la vie."},
 	    "CON12" : { "contenu" : "Conscience et inconscience."},
 	    "CON13" : { "contenu" : "Les liens qui nous rattachent aux autres."}
