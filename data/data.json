@@ -5,7 +5,7 @@
 	    "CON5" : { "contenu": "Les perceptions et représentations du monde."},
 	    "CON6" : { "contenu": "La selection sexuelle et naturelle."},
 	    "CON7" : { "contenu": "Le corps et l'esprit."},
-	    "CON8" : { "contenu": "Sexualité et reproduction."},
+	    "CON8" : { "contenu": "Reproduction et sexualité"},
 	    "CON9" : { "contenu": "La mort."},
 	    "CON10" : { "contenu" : "La place de l'être humain."},
 	    "CON11" : { "contenu" : "Les origines de la vie."},
@@ -49,7 +49,9 @@
 	    "DOM34" : { "contenu": "Le rapport à la mort chez les animaux non humain"},
 	    "DOM35" : { "contenu": "Une Terre en constante mutation"},
 	    "DOM36" : { "contenu": "La symbiose"},
-	    "DOM37" : { "contenu": "Destruction et reconstruction du vivant sur la Terre"}
+	    "DOM37" : { "contenu": "Destruction et reconstruction du vivant sur la Terre"},
+	    "DOM38" : { "contenu" : "La séduction"},
+	    "DOM40" : { "contenu" : "Le monde des genres."}
 	},
 	"IDE" : {
 	    "IDE1" : { "contenu": "L'environnement modifie les gene actifs des cellules."},
@@ -137,23 +139,26 @@
 	    "IDE88" : { "contenu": "La collaboration entre les hommes et les animaux."},
 	    "IDE89" : { "contenu": "Le vivant sur Terre à vécu cinq crises majeurs d'extinction."},
 	    "IDE90" : { "contenu": "La majorité des espèces ont disparu"},
-	    "IDE91" : { "contenu": "L'Homme ne dispose pas de capacités physioliques exceptionnelles."}
+	    "IDE91" : { "contenu": "L'Homme ne dispose pas de capacités physioliques exceptionnelles."},
+	    "IDE92" : { "contenu" : "La séduction par le chant."},
+	    "IDE93" : { "contenu" : "Le monde des grenouilles et des crapauds"}
 	},
 	"MEC" : {
-	    "MEC2" : { "contenu": "Les cellules souches embryonnaires ont accès à tous les genes."},
-	    "MEC5" : { "contenu": "Tout les celulles sont issue d'une la cellule souche grace a la division cellulaire."},
-	    "MEC6" : { "contenu": "Grace au brassage genetique qui lieu durant la reproduction sexue chez les animaux permet de faire naitre de la nouveaute et de la diversite qu fil des generations. Les descendants ne sont pas identiques a leurs parents."},
-	    "MEC7" : { "contenu": "Le nombre de descendants est superieur aux ressources disponibles nessecaire pour assurer la survie de chacun. La lutte pour survivre et se reproduire favorisera les individus les mieux adapte. Il  auront une plus grande probabilite de transmettre leur caracterisques a leur descendance."},
-	    "MEC8" : { "contenu": "Theorie de la reine rouge : les changements des etres vivants qui en entourent d'autres sont un des elements modifiant l'environnement et ainsi permettant aux modificiations de surgir ou se maintenir."},
-	    "MEC9" : { "contenu": "Les fleurs produisent une substance pour attirer les poliniateurs et une autre toxique pour eviter qu'il stagne longtemps."},
-	    "MEC10" : {  "contenu": "Lorsque le niveau d'oxygene diminue. D'abord, l'organime va accelerer le rythme de la respiration, puis il va produire plus de globule rouge pour capter l'oxygene. Le rein va liberer une hormone nommee erythropoietine (EPO) qui va empecher la destruction des globules rouges produites dans la moelle des os."},
-	    "MEC11" : {  "contenu": "La contamination d'un organisme par un virus active le systeme immunitaire. Les glanglion grossissent et produisent une importante quantite de globules blancs. Au bout de 3 semaines 95% des globules blancs se suicident et 5% se transfroment en cellule memoire."},
-	    "MEC12" : {  "contenu": "Les regles chez les femmes est un mecanisme engendre par l'ovulation. Elle stope la production de l'hormone necessaire au maintient des muqueuse uterines qui s'autodetruisent. Ce phenome peut etre inale dans le cas d'une fecondation.  "},
-	    "MEC13" : {  "contenu": "Bloquer les cellules a percevoir les molecule saui entraine l'autodestructionq"},
-	    "MEC14" : {  "contenu": "bloquer l'activiter des executeurs de l'autodestruction."},
-	    "MEC15" : {  "contenu": "Activer les genes qui protegent la cellules de l'autodestruction."},
-	    "MEC16" : {  "contenu": "La chimiotherapie consiste déclenche l'auto destruction de la cellule. Un traitement efficace activera uniquement la mort cellulaires chez les cancereuses."},
-	    "MEC17" : {  "contenu": "Les parasites et les germes sont tués par la chaleur."}
+	    "MEC2" : { "contenu" : "Les cellules souches embryonnaires ont accès à tous les genes."},
+	    "MEC5" : { "contenu" : "Tout les celulles sont issue d'une la cellule souche grace a la division cellulaire."},
+	    "MEC6" : { "contenu" : "Grace au brassage genetique qui lieu durant la reproduction sexue chez les animaux permet de faire naitre de la nouveaute et de la diversite qu fil des generations. Les descendants ne sont pas identiques a leurs parents."},
+	    "MEC7" : { "contenu" : "Le nombre de descendants est superieur aux ressources disponibles nessecaire pour assurer la survie de chacun. La lutte pour survivre et se reproduire favorisera les individus les mieux adapte. Il  auront une plus grande probabilite de transmettre leur caracterisques a leur descendance."},
+	    "MEC8" : { "contenu" : "Theorie de la reine rouge : les changements des etres vivants qui en entourent d'autres sont un des elements modifiant l'environnement et ainsi permettant aux modificiations de surgir ou se maintenir."},
+	    "MEC9" : { "contenu" : "Les fleurs produisent une substance pour attirer les poliniateurs et une autre toxique pour eviter qu'il stagne longtemps."},
+	    "MEC10" : { "contenu" : "Lorsque le niveau d'oxygene diminue. D'abord, l'organime va accelerer le rythme de la respiration, puis il va produire plus de globule rouge pour capter l'oxygene. Le rein va liberer une hormone nommee erythropoietine (EPO) qui va empecher la destruction des globules rouges produites dans la moelle des os."},
+	    "MEC11" : { "contenu" : "La contamination d'un organisme par un virus active le systeme immunitaire. Les glanglion grossissent et produisent une importante quantite de globules blancs. Au bout de 3 semaines 95% des globules blancs se suicident et 5% se transfroment en cellule memoire."},
+	    "MEC12" : { "contenu" : "Les regles chez les femmes est un mecanisme engendre par l'ovulation. Elle stope la production de l'hormone necessaire au maintient des muqueuse uterines qui s'autodetruisent. Ce phenome peut etre inale dans le cas d'une fecondation.  "},
+	    "MEC13" : { "contenu" : "Bloquer les cellules a percevoir les molecule saui entraine l'autodestructionq"},
+	    "MEC14" : { "contenu" : "bloquer l'activiter des executeurs de l'autodestruction."},
+	    "MEC15" : { "contenu" : "Activer les genes qui protegent la cellules de l'autodestruction."},
+	    "MEC16" : { "contenu" : "La chimiotherapie consiste déclenche l'auto destruction de la cellule. Un traitement efficace activera uniquement la mort cellulaires chez les cancereuses."},
+	    "MEC17" : { "contenu" : "Les parasites et les germes sont tués par la chaleur."},
+	    "MEC18" : { "contenu" : "Les males grenouilles remplissent et dégonfle d'air deux packs vocaux situés des deux cotés pour produire le chant." } 
 	},
 	"OBS" : {
 	    "OBS1" : {"contenu": "Le sexe du crocodile est determine par la temperature d'expostion de l'oeuf.  "},
@@ -248,7 +253,10 @@
 	    "OBS90" : { "contenu": "Certains espèces de coraux et d'éponges sont capables de vivre plus de 2 000 ans."},
 	    "OBS91" : { "contenu": "Certaines méduses est capable de recommencer le cycle de la vie."},
 	    "OBS92" : { "contenu": "L'étoile de mer est capable de faire repousser des parties de son corps. "},
-	    "OBS93" : { "contenu": "Le tadigrade resiste au milieu toxique à des temperatures comprise entre -275 et 170, au vide et aux rayons-X."}
+	    "OBS93" : { "contenu": "Le tadigrade resiste au milieu toxique à des temperatures comprise entre -275 et 170, au vide et aux rayons-X."},
+	    "OBS94" : { "contenu": "Le chant de certaines grenouilles peut être entendu à plus d'un kilomètre."},
+	    "OBS95" : { "contenu": "Il existe 6 000 espèces de crapauds et de grenouilles."},
+	    "OBS96" : { "contenu": "Le plus petit vertébré connu est une grenouille de Papouasie qui mesure 7mm à l'âge adulte."},
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
@@ -479,6 +487,13 @@
 		["CON12", "DOM18"],
 		["CON1", "DOM36"],
 		["DOM10", "CON13"],
-		["DOM11", "CON13"]
+		["DOM11", "CON13"],
+		["DOM38", "CON8"],
+		["DOM38", "IDE92"],
+		["IDE92", "MEC18"],
+		["IDE92", "OBS94"],
+		["DOM40", "IDE93"],
+		["IDE93", "OBS95"],
+		["IDE93", "OBS96"]
 	]
 }
