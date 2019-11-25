@@ -10,7 +10,8 @@
 	    "CON10" : { "contenu" : "La place de l'être humain."},
 	    "CON11" : { "contenu" : "Les origines de la vie."},
 	    "CON12" : { "contenu" : "Conscience et inconscience."},
-	    "CON13" : { "contenu" : "Les liens qui nous rattachent aux autres."}
+	    "CON13" : { "contenu" : "Les liens qui nous rattachent aux autres."},
+	    "CON14" : { "contenu" : "Inné et acquis." }
 	},
 	"DOM" : {
 	    "DOM1" : {"contenu": "Epigenetique, c'est l'influence de l'environement sur les genes."},
