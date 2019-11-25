@@ -10,7 +10,8 @@
 	    "CON8" : { "contenu": "Amour et sexualité."},
 	    "CON9" : { "contenu": "La mort."},
 	    "CON10" : { "contenu" : "La place de l'être humain"},
-	    "CON11" : { "contenu" : "Les origines de la vie."}
+	    "CON11" : { "contenu" : "Les origines de la vie."},
+	    "CON12" : { "contenu" : "Conscience et inconscience.} 
 	},
 	"DOM" : {
 	    "DOM1" : {"contenu": "Epigenetique, c'est l'influence de l'environement sur les genes."},
@@ -39,7 +40,7 @@
 	    "DOM25" : { "contenu": "Les stérotypes sociaux et les conditions sociales determinent la qualité des bébés."},
 	    "DOM26" : { "contenu": "La presence du pere pendant et après la post naissance procure un environement securisant. Le père est un autre individu. "},
 	    "DOM27" : { "contenu": "L'univers des sons chez les chauve souris"},
-	    "DOM28" : { "contenu": "Elles peuvent avoir des effets contradictoires."},
+	    "DOM28" : { "contenu": "La selection naturelle et sexuelle peuvent avoir des effets contradictoires."},
 	    "DOM29" : { "contenu": "Les caractères innés"},
 	    "DOM30" : { "contenu": "Maternage proximale : ensemble des pratiques qui consistent à garder le nouveau né à proximité, allaitement, dormir avec son enfant, le masser, motriciter libre (laisser son enfant se débrouiller). laisser l'enfant découvrir le monde, manger des morceaux."},
 	    "DOM31" : { "contenu": "Education et transmission du savoir."},
@@ -474,6 +475,7 @@
 		["CON10", "DOM19"],
 		["CON10", "DOM20"],
 		["CON10", "DOM5"],
-		["CON11", "DOM4"]
+		["CON11", "DOM4"],
+		["CON12", "DOM18"]
 	]
 }
