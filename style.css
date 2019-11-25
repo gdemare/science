@@ -5,6 +5,7 @@ body {
   font-weight: lighter;
   min-width: 600px;
   height: 100%;
+  overflow: hidden;
 }
 
 /*************************
