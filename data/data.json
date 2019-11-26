@@ -13,7 +13,10 @@
 	    "CON13" : { "contenu" : "Les liens qui nous rattachent aux autres."},
 	    "CON14" : { "contenu" : "Inné et acquis." },
 	    "CON15" : { "contenu" : "Histoires et croyances"},
-	    "CON16" : { "contenu" : "Les activités humaines."}
+	    "CON16" : { "contenu" : "Les activités humaines."},
+	    "CON17" : { "contenu" : "Les conséquences des activités humaines."},
+	    "CON18" : { "contenu" : "Motivation et dépendance"},
+	    "CON19" : { "contenu" : "La beauté et l'Art."}
 	},
 	"DOM" : {
 	    "DOM1" : {"contenu": "Epigenetique, c'est l'influence de l'environement sur les genes."},
@@ -61,7 +64,11 @@
  	    "DOM45" : { "contenu" : "La religion."},
 	    "DOM46" : { "contenu" : "Les conséquences des activités humaines."},
 	    "DOM47" : { "contenu" : "Les conditions climatiques influencent le développement des organismes vivants."},
-	    "DOM48" : { "contenu" : "Les cinqs sens de l'Homme."}
+	    "DOM48" : { "contenu" : "Les cinqs sens de l'Homme."},
+	    "DOM49" : { "contenu" : "Les conséquences du bouleversement climatique actuel."},
+	    "DOM50" : { "contenu" : "Les alcloïdes"},
+	    "DOM51" : { "contenu" : "Polénisation."},
+	    "DOM52" : { "contenu" : "L'Art graphique"}
 	},
 	"IDE" : {
 	    "IDE1" : { "contenu": "L'environnement modifie les gene actifs des cellules."},
@@ -161,7 +168,16 @@
 	    "IDE100" : { "contenu" : "Le bruit des activités humaines étouffe la capacite de perception et de réponse des autres espèces."},
 	    "IDE101" : { "contenu" : "Les conditions climatiques ont des influences sur la morphologie des êtres vivants."},
 	    "IDE102" : { "contenu" : "La synthèse de la molécule végétale, la linine, a permis au plante de se dépasser les 1 mètres de hauteurs. Elle permet de rendu les flexibles : la structure ne se casse pas sous un poid important, notamment sous l'effet du vent."},
-	    "IDE103" : { "contenu" : "L'ouï"}
+	    "IDE103" : { "contenu" : "L'ouï"},
+	    "IDE104" : { "contenu" : "Les plus jeune serait les premières victimes du rechauffement climatique"},
+	    "IDE105" : { "contenu" : "L'augmentation de la température."},
+	    "IDE106" : { "contenu" : "La vie sous terre."},
+	    "IDE107" : { "contenu" : "Une faible quantité d'alcaloide stimule le zone cérébrale de la mémoire."},
+	    "IDE108" : { "contenu" : "Les alcaloïdes sont présent en forte concentration dans les feuilles et le tronc contraitement dans les fleurs pour se protéger des prédateurs et attirer les polénisateurs."},
+	    "IDE109" : { "contenu" : "Le gout."},
+	    "IDE110" : { "contenu" : "85% de la polénisation est réalisée par des animaux."},
+	    "IDE111" : { "contenu" : "Les peinture murales dans les grottes chez les chasseurs-cueilleurs."},
+	    "IDE112" : { "contenu" : "Le style graphique a été transmis s'est transmise durant plus de 20 000 ans."}
 	},
 	"MEC" : {
 	    "MEC2" : { "contenu" : "Les cellules souches embryonnaires ont accès à tous les genes."},
@@ -179,7 +195,8 @@
 	    "MEC16" : { "contenu" : "La chimiotherapie consiste déclenche l'auto destruction de la cellule. Un traitement efficace activera uniquement la mort cellulaires chez les cancereuses."},
 	    "MEC17" : { "contenu" : "Les parasites et les germes sont tués par la chaleur."},
 	    "MEC18" : { "contenu" : "Les males grenouilles remplissent et dégonfle d'air deux packs vocaux situés des deux cotés pour produire le chant."},
-	    "MEC19" : { "contenu" : "Les vibration captées par des mecanorecepteurs induisent une augmentation du sucres dans le nectar."}
+	    "MEC19" : { "contenu" : "Les vibration captées par des mecanorecepteurs induisent une augmentation du sucres dans le nectar."},
+	    "MEC20" : { "contenu" : "L'abeille perçoit le gout et le parfum grâce à ses antennes."}
 	},
 	"OBS" : {
 	    "OBS1" : {"contenu": "Le sexe du crocodile est determine par la temperature d'expostion de l'oeuf.  "},
@@ -284,7 +301,14 @@
 	    "OBS100" : { "contenu": "Certaines orchidées attirent les mâles en emettant un parfum similaire aux phéromones sexuelles des femelles pour attirer les mâles."},
 	    "OBS101" : { "contenu" : "Le système de respiration des insecte a influencé sur leur taille durant , Les libellules faisaient la taille d'un aigle."},
 	    "OBS102" : { "contenu" : "La linine est une molécule compliqué à dirégé par les champignons."},
-	    "OBS103" : { "contenu" : "L'oreille humaine percoit des sons entre 20 et 20 0000 hetz."}
+	    "OBS103" : { "contenu" : "L'oreille humaine percoit des sons entre 20 et 20 0000 hetz."},
+	    "OBS104" : { "contenu" : "Les enfants née le 2019 vivrait dans un monde avec +4°c avec leur 70 ans."},
+	    "OBS105" : { "contenu" : "La diminution des rendements cérialliés"},
+	    "OBS106" : { "contenu" : "L'augmentation des maladies infectieuses remontent dans le nord dingue, chikungunya."},
+	    "OBS107" : { "contenu" : "La diminution du poids du foetus de 17g par degrès et par mois."},
+	    "OBS108" : { "contenu" : "25% de la biodiveristé totale vit dans le sol."},
+	    "OBS109" : { "contenu" : "Certaines fleurs ont des formes identifiables pour les chauve souris. Elles renvoient les sons amplifiés comme des miroirs sonores."},
+	    "OBS110" : { "contenu" : "1859 la grotte d'Altamira, plafond entierement peint de plus de 2 métres. L'environement est incommade et dangereux entré endroit incommode"}
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
@@ -297,7 +321,9 @@
 	    "SCI8" : { "annee": "", "pays": "", "contenu": "Les chercheurs ont accrochés des pastilles de couleurs différentes sur les plus de pie voleuse et ils les ont mises devant un mirroire. Lorsque la pastille est de couleur différentes du plumage, la pie se débat pour l'enlever."},
 	    "SCI9" : { "annee": "", "pays": "", "contenu": "Des chercheur ont apprenti à des singe verts à associé le cri de l'aigle au comportement du serpent."},
 	    "SCI10" : { "annee": "1941", "pays": "USA, Havard", "contenu": "des étudiants réalisent une thèse Harvard et invent à l'occasion un mot pour désigner ce mode de représentation du monde : l'echolocalisation."},
-	    "SCI11" : { "annee": "2019", "pays": "Israël, Tel Aviv", "contenu" : "Les chercheurs ont diffusé des bourdonnements d'abeilles à une distance de 10cm des fleurs de Deodora nagre vesperale. Ils ont remarqué que la concentration en sucre augementée environ 3 minutes plus tard. Les petales de la fleur se mettent à vibrer de l'ordre de 200 à 500 hertz."}
+	    "SCI11" : { "annee": "2019", "pays": "Israël, Tel Aviv", "contenu" : "Les chercheurs ont diffusé des bourdonnements d'abeilles à une distance de 10cm des fleurs de Deodora nagre vesperale. Ils ont remarqué que la concentration en sucre augementée environ 3 minutes plus tard. Les petales de la fleur se mettent à vibrer de l'ordre de 200 à 500 hertz."},
+	    "SCI12" : { "annee": "2017", "pays": "USA, université du Queens", "contenu" : "Les chercheurs ont apprit à des abeilles à visiter un type de fleur avec et sans nicotine. Lorsque les chercheurs ont changé de la couleur des fleurs pour tester l'adaptation, les nicotiniens sont restés plus longtemps fidèle à leur souvenir de la fleur. Les autres se sont adaptés plus rapidement. Mais certains nicotiniens ont changé aussi rapidement de fleurs."},
+	    "SCI13" : { "annee": "2015", "pays": "", "contenu" : "Etude sur l'exploration sdes effets de la presence de subsances alcaloïdes sur les bourdons. Les chercheur ont colorés des fleurs artificielles colorés en fonction de taux de caféine. Les fleurs les plus visités sont celles avec une faible concentration de caféine."}
 	},
 	"liens" : [
 		["CON1", "DOM1"],
@@ -561,6 +587,25 @@
 		["IDE102", "OBS102"],
 		["CON5", "DOM48"],
 		["DOM48", "IDE103"],
-		["OBS103", "IDE103"]
+		["OBS103", "IDE103"],
+		["CON17", "DOM49"],
+		["DOM49", "IDE104"],
+		["IDE104", "OBS104"],
+		["IDE105", "OBS105"],
+		["IDE105", "OBS106"],
+		["IDE105", "OBS107"],
+		["IDE106", "OBS108],
+		["SCI13", "IDE107"],
+		["SCI12", "IDE107"],
+		["DOM50", "IDE108"],
+		["DOM50", "IDE107"],
+		["CON18", "DOM50"],
+		["IDE109", "MEC20"],
+		["DOM42", "IDE109"],
+		["DOM51", "IDE110"],
+		["IDE110", "OBS109"],
+		["CON19", "DOM52"],
+		["OBS110", "IDE112"],
+		["OBS110", "IDE111"]
 	]
 }
