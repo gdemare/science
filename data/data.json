@@ -284,7 +284,7 @@
 	    "OBS100" : { "contenu": "Certaines orchidées attirent les mâles en emettant un parfum similaire aux phéromones sexuelles des femelles pour attirer les mâles."},
 	    "OBS101" : { "contenu" : "Le système de respiration des insecte a influencé sur leur taille durant , Les libellules faisaient la taille d'un aigle."},
 	    "OBS102" : { "contenu" : "La linine est une molécule compliqué à dirégé par les champignons."},
-	    "OBS103" : { "L'oreille humaine percoit des sons entre 20 et 20 0000 hetz."}
+	    "OBS103" : { "contenu" : "L'oreille humaine percoit des sons entre 20 et 20 0000 hetz."}
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
@@ -296,8 +296,8 @@
 	    "SCI7" : { "annee": "", "pays": "", "contenu": "Etude pour identifier le degré de synchronisation de deux joueur. Ils sont positionnés face à face et doivent improver des mouvements en s'immitant l'un l'autre. Ils sont soumis à deux situation, dans un cas les deux joueurs improvisent ensemble dans l'autre l'un suit les mouvements de l'autre. Pour les personnes issues de milieu d'improvisation réussissent mieux celle solidaire tandis la concordance des mouvements est meilleure pour les non experts dans le deuxième exercice. Comme si les experts ont plus de facilité à imaginer un futur commun."},
 	    "SCI8" : { "annee": "", "pays": "", "contenu": "Les chercheurs ont accrochés des pastilles de couleurs différentes sur les plus de pie voleuse et ils les ont mises devant un mirroire. Lorsque la pastille est de couleur différentes du plumage, la pie se débat pour l'enlever."},
 	    "SCI9" : { "annee": "", "pays": "", "contenu": "Des chercheur ont apprenti à des singe verts à associé le cri de l'aigle au comportement du serpent."},
-	    "SCI10" : { "annee": "1941", "pays": "USA, Havard", "contenu": "des étudiants réalisent une thèse Harvard et invent à l'occasion un mot pour désigner ce mode de représentation du monde : l'echolocalisation."}
-	    "SCI11" : { "annee": "2019", "pays": "Tel Aviv", "Les chercheurs ont diffusé des bourdonnements d'abeilles à une distance de 10cm des fleurs de Deodora nagre vesperale. Ils ont remarqué que la concentration en sucre augementée environ 3 minutes plus tard. Les petales de la fleur se mettent à vibrer de l'ordre de 200 à 500 hertz."}
+	    "SCI10" : { "annee": "1941", "pays": "USA, Havard", "contenu": "des étudiants réalisent une thèse Harvard et invent à l'occasion un mot pour désigner ce mode de représentation du monde : l'echolocalisation."},
+	    "SCI11" : { "annee": "2019", "pays": "Israël, Tel Aviv", "contenu" : "Les chercheurs ont diffusé des bourdonnements d'abeilles à une distance de 10cm des fleurs de Deodora nagre vesperale. Ils ont remarqué que la concentration en sucre augementée environ 3 minutes plus tard. Les petales de la fleur se mettent à vibrer de l'ordre de 200 à 500 hertz."}
 	},
 	"liens" : [
 		["CON1", "DOM1"],
