@@ -11,7 +11,9 @@
 	    "CON11" : { "contenu" : "Les origines de la vie."},
 	    "CON12" : { "contenu" : "Conscience et inconscience."},
 	    "CON13" : { "contenu" : "Les liens qui nous rattachent aux autres."},
-	    "CON14" : { "contenu" : "Inné et acquis." }
+	    "CON14" : { "contenu" : "Inné et acquis." },
+	    "CON15" : { "contenu" : "Histoires et croyances"},
+	    "CON16" : { "contenu" : "Les activités humaines."}
 	},
 	"DOM" : {
 	    "DOM1" : {"contenu": "Epigenetique, c'est l'influence de l'environement sur les genes."},
@@ -45,7 +47,7 @@
 	    "DOM30" : { "contenu": "Maternage proximale : ensemble des pratiques qui consistent à garder le nouveau né à proximité, allaitement, dormir avec son enfant, le masser, motriciter libre (laisser son enfant se débrouiller). laisser l'enfant découvrir le monde, manger des morceaux."},
 	    "DOM31" : { "contenu": "Education et transmission du savoir."},
 	    "DOM32" : { "contenu": "Les activités humaines néfaste à l'environnement"},
-	    "DOM33" : { "contenu": "sexualité"},
+	    "DOM33" : { "contenu": "Sexualité"},
 	    "DOM34" : { "contenu": "Le rapport à la mort chez les animaux non humain"},
 	    "DOM35" : { "contenu": "Une Terre en constante mutation"},
 	    "DOM36" : { "contenu": "La symbiose"},
@@ -54,7 +56,12 @@
 	    "DOM40" : { "contenu" : "Le monde des genres."},
 	    "DOM41" : { "contenu" : "La coévolution."},
 	    "DOM42" : { "contenu" : "Le monde des plantes."},
-	    "DOM43" : { "contenu" : "Le monde des abeilles."} 
+	    "DOM43" : { "contenu" : "Le monde des abeilles."}, 
+	    "DOM44" : { "contenu" : "La diversité des comportements."},
+ 	    "DOM45" : { "contenu" : "La religion."},
+	    "DOM46" : { "contenu" : "Les conséquences des activités humaines."},
+	    "DOM47" : { "contenu" : "Les conditions climatiques influencent le développement des organismes vivants."},
+	    "DOM48" : { "contenu" : "Les cinqs sens de l'Homme."}
 	},
 	"IDE" : {
 	    "IDE1" : { "contenu": "L'environnement modifie les gene actifs des cellules."},
@@ -147,7 +154,14 @@
 	    "IDE93" : { "contenu" : "Le monde des grenouilles et des crapauds."},
 	    "IDE94" : { "contenu" : "La symbiose entre les plantes et les abeilles"},
 	    "IDE95" : { "contenu" : "Les plantes à fleur"},
-	    "IDE96" : { "contenu" : "Abeilles et bourdon"}
+	    "IDE96" : { "contenu" : "Abeilles et bourdon"},
+	    "IDE97" : { "contenu" : "Les plantes parlent aux abeilles avec leurs formes et leurs couleurs."},
+	    "IDE98" : { "contenu" : "Les fleurs se sont adaptées aux abeilles en favorisant des tailles de la fleur, de densité et d'épaisseurs des tissus qui réagissent aux sons émis par le vol des abeilles."},
+	    "IDE99" : { "contenu" : "Les fleurs sont capacbles d'entendre et de réagir aux bourdonnements des abeilles."},
+	    "IDE100" : { "contenu" : "Le bruit des activités humaines étouffe la capacite de perception et de réponse des autres espèces."}
+	    "IDE101" : { "contenu" : "Les conditions climatiques ont des influences sur la morphologie des êtres vivants."},
+	    "IDE102" : { "contenu" : "La synthèse de la molécule végétale, la linine, a permis au plante de se dépasser les 1 mètres de hauteurs. Elle permet de rendu les flexibles : la structure ne se casse pas sous un poid important, notamment sous l'effet du vent."},
+	    "IDE103" : { "contenu" : "L'ouï"},
 	},
 	"MEC" : {
 	    "MEC2" : { "contenu" : "Les cellules souches embryonnaires ont accès à tous les genes."},
@@ -164,7 +178,8 @@
 	    "MEC15" : { "contenu" : "Activer les genes qui protegent la cellules de l'autodestruction."},
 	    "MEC16" : { "contenu" : "La chimiotherapie consiste déclenche l'auto destruction de la cellule. Un traitement efficace activera uniquement la mort cellulaires chez les cancereuses."},
 	    "MEC17" : { "contenu" : "Les parasites et les germes sont tués par la chaleur."},
-	    "MEC18" : { "contenu" : "Les males grenouilles remplissent et dégonfle d'air deux packs vocaux situés des deux cotés pour produire le chant."} 
+	    "MEC18" : { "contenu" : "Les males grenouilles remplissent et dégonfle d'air deux packs vocaux situés des deux cotés pour produire le chant."},
+	    "MEC19" : { "contenu" : "Les vibration captées par des mecanorecepteurs induisent une augmentation du sucres dans le nectar."}
 	},
 	"OBS" : {
 	    "OBS1" : {"contenu": "Le sexe du crocodile est determine par la temperature d'expostion de l'oeuf.  "},
@@ -265,7 +280,11 @@
 	    "OBS96" : { "contenu": "Le plus petit vertébré connu est une grenouille de Papouasie qui mesure 7mm à l'âge adulte."},
 	    "OBS97" : { "contenu": "Il a été recensé 140 120 symbioses entre les plantes à fleurs et les abeilles."},
 	    "OBS98" : { "contenu": "Il existe 350 000 expèces de plantes à fleur."},
-	    "OBS99" : { "contenu": "Il existe 20 000 especes d'abeilles."}
+	    "OBS99" : { "contenu": "Il existe 20 000 especes d'abeilles."},
+	    "OBS100" : { "contenu": "Certaines orchidées attirent les mâles en emettant un parfum similaire aux phéromones sexuelles des femelles pour attirer les mâles."},
+	    "OBS101" : { "contenu" : "Le système de respiration des insecte a influencé sur leur taille durant , Les libellules faisaient la taille d'un aigle."},
+	    "OBS102" : { "contenu" : "La linine est une molécule compliqué à dirégé par les champignons."},
+	    "OBS103" : { "L'oreille humaine percoit des sons entre 20 et 20 0000 hetz."}
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
@@ -277,7 +296,8 @@
 	    "SCI7" : { "annee": "", "pays": "", "contenu": "Etude pour identifier le degré de synchronisation de deux joueur. Ils sont positionnés face à face et doivent improver des mouvements en s'immitant l'un l'autre. Ils sont soumis à deux situation, dans un cas les deux joueurs improvisent ensemble dans l'autre l'un suit les mouvements de l'autre. Pour les personnes issues de milieu d'improvisation réussissent mieux celle solidaire tandis la concordance des mouvements est meilleure pour les non experts dans le deuxième exercice. Comme si les experts ont plus de facilité à imaginer un futur commun."},
 	    "SCI8" : { "annee": "", "pays": "", "contenu": "Les chercheurs ont accrochés des pastilles de couleurs différentes sur les plus de pie voleuse et ils les ont mises devant un mirroire. Lorsque la pastille est de couleur différentes du plumage, la pie se débat pour l'enlever."},
 	    "SCI9" : { "annee": "", "pays": "", "contenu": "Des chercheur ont apprenti à des singe verts à associé le cri de l'aigle au comportement du serpent."},
-	    "SCI10" : {  "annee": "1941", "pays": "USA, Havard", "contenu": "des étudiants réalisent une thèse Harvard et invent à l'occasion un mot pour désigner ce mode de représentation du monde : l'echolocalisation."}
+	    "SCI10" : { "annee": "1941", "pays": "USA, Havard", "contenu": "des étudiants réalisent une thèse Harvard et invent à l'occasion un mot pour désigner ce mode de représentation du monde : l'echolocalisation."}
+	    "SCI11" : { "annee": "2019", "pays": "Tel Aviv", "Les chercheurs ont diffusé des bourdonnements d'abeilles à une distance de 10cm des fleurs de Deodora nagre vesperale. Ils ont remarqué que la concentration en sucre augementée environ 3 minutes plus tard. Les petales de la fleur se mettent à vibrer de l'ordre de 200 à 500 hertz."}
 	},
 	"liens" : [
 		["CON1", "DOM1"],
@@ -521,6 +541,26 @@
 		["DOM36", "IDE94"],
 		["CON1", "DOM43"],
 		["DOM36", "IDE94"],
-		["DOM18", "CON13"]
+		["DOM18", "CON13"],
+		["DOM44", "CON1"],
+		["CON15", "DOM45"],
+		["IDE97", "DOM41"],
+		["IDE97", "DOM43"],
+		["IDE97", "DOM42"],
+		["IDE97", "DOM42"],
+		["OBS100", "IDE97"],
+		["MEC19", "IDE97"],
+		["SCI11", "IDE97"],
+		["DOM46", "IDE100"],
+		["CON16", "DOM46"],
+		["DOM47", "CON1"],
+		["OBS101", "IDE101"],
+		["DOM47", "IDE101"],
+		["CON1", "DOM47"],
+		["IDE102", "DOM42"],
+		["IDE102", "OBS102"],
+		["CON5", "DOM48"],
+		["DOM48", "IDE103"],
+		["OBS103", "IDE103"]
 	]
 }
