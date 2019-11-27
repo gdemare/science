@@ -256,4 +256,13 @@ $("#styleCSS").click( function() {
     root.style.setProperty('--color-fondMenu','rgb(247,247,250)');
   };
 };
+  
+// modifier
+$( '#modifier' ).click( function() {
+  if (document.getElementsByClassName("selection")[0] != null) {
+    url = 'https://github.com/gdemare/science/edit/master/data/data.json' ;
+    window.open(url);
+  };
+});
+  
 })
