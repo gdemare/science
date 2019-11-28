@@ -331,7 +331,7 @@
 	    "OBS112" : { "contenu" : "Les fossiles de même espèces ont été retrouvés sur deux continents."},
 	    "OBS113" : { "contenu" : "Les mineraux sont les même sur les deux endroits continents."},
 	    "OBS114" : { "contenu" : "De la lave remonte chaque jour des failles oceaniques."}
-	},"}
+	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
 	    "SCI2" : { "annee": "2006", "pays": "", "contenu": "Des chercheur ont transfomé une cellule de peau en cellule embryonnaire en la forcant a utiliser quatre gènes : cellules souches pluripotentes induites."},
