@@ -217,7 +217,7 @@
 	    "MEC22" : { "contenu" : "La tectonique des plaques."}
 	},
 	"OBS" : {
-	    "OBS1" : {"contenu": "Le sexe du crocodile est determine par la temperature d'expostion de l'oeuf.  "},
+	    "OBS1" : {"contenu": "Le sexe du crocodile est determine par la temperature d'expostion de l'oeuf."},
 	    "OBS2" : {"contenu": "La classe d'une abeille est determine par la nourriture donnee a la larve."},
 	    "OBS3" : {"contenu": "La girelle à tête bleue change de sexe en fonction du nombre de males presents et de sa taille."},
 	    "OBS4" : {"contenu": "Le corps humain est composé de 200 familles de cellules différentes issu de la cellule souche."},
