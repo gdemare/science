@@ -259,10 +259,8 @@ $("#styleCSS").click( function() {
   
 // modifier
 $( '#modifier' ).click( function() {
-  if (document.getElementsByClassName("selection")[0] != null) {
-    url = 'https://github.com/gdemare/science/edit/master/data/data.json' ;
+    var url = 'https://github.com/gdemare/science/edit/master/data/data.json' ;
     window.open(url);
-  };
 });
   
 })
