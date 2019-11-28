@@ -16,7 +16,9 @@
 	    "CON16" : { "contenu" : "Les activités humaines."},
 	    "CON17" : { "contenu" : "Les conséquences des activités humaines."},
 	    "CON18" : { "contenu" : "Motivation et dépendance"},
-	    "CON19" : { "contenu" : "La beauté et l'Art."}
+	    "CON19" : { "contenu" : "La beauté et l'Art."},
+	    "CON20" : { "contenu" : "Le plaisir."},
+	    "CON21" : { "contenu" : "Attraction et fidélité"}
 	},
 	"DOM" : {
 	    "DOM1" : {"contenu": "Epigenetique, c'est l'influence de l'environement sur les genes."},
@@ -68,7 +70,11 @@
 	    "DOM49" : { "contenu" : "Les conséquences du bouleversement climatique actuel."},
 	    "DOM50" : { "contenu" : "Les alcloïdes"},
 	    "DOM51" : { "contenu" : "Polénisation."},
-	    "DOM52" : { "contenu" : "L'Art graphique"}
+	    "DOM52" : { "contenu" : "L'Art graphique"},
+	    "DOM53" : { "contenu" : "L'Art graphique"},
+	    "DOM54" : { "contenu" : "Sytème recepteur de la dopamine."},
+	    "DOM55" : { "contenu" : "Les alcaloïdes des subsances attractive à faible dose et toxique en forte."},
+	    "DOM56" : { "contenu" : "La planète Terre."}
 	},
 	"IDE" : {
 	    "IDE1" : { "contenu": "L'environnement modifie les gene actifs des cellules."},
@@ -177,7 +183,17 @@
 	    "IDE109" : { "contenu" : "Le gout."},
 	    "IDE110" : { "contenu" : "85% de la polénisation est réalisée par des animaux."},
 	    "IDE111" : { "contenu" : "Les peinture murales dans les grottes chez les chasseurs-cueilleurs."},
-	    "IDE112" : { "contenu" : "Le style graphique a été transmis s'est transmise durant plus de 20 000 ans."}
+	    "IDE112" : { "contenu" : "Le style graphique a été transmis s'est transmise durant plus de 20 000 ans."},
+	    "IDE113" : { "contenu" : "Les océans représente 71% de la surface terrestre."},
+	    "IDE114" : { "contenu" : "Le cannabis active le sytème recepteur de la dopamine."},
+	    "IDE115" : { "contenu" : "Le cerveau des abeilles."},
+	    "IDE116" : { "contenu" : "La fleur produit des alcaloïde comme la caféine et la nicotine."},
+	    "IDE117" : { "contenu" : "L'ancêtre commun aux abeilles et aux mamiferes remonte à entre -600 et -400 millions d'années."},
+	    "IDE118" : { "contenu" : "Les plantes favorisées sont celles avec des fleurs dont le nectar et le polène est le plus apprecié et dont la forme et la couleur sont facilement identifiable."},
+	    "IDE119" : { "Le chamanisme, le monde des esprits sont à porter de main. Les rites permettent de rentrer en contact.
+	    "IDE120" : { "Les religion monotéistes ou les voies de dieu sont impénétrables."},
+	    "IDE121" : { "La théorie de la dérive des continents."},
+	    "IDE122" : { "Les océans représente 71% de la surface terrestre."}
 	},
 	"MEC" : {
 	    "MEC2" : { "contenu" : "Les cellules souches embryonnaires ont accès à tous les genes."},
@@ -196,7 +212,9 @@
 	    "MEC17" : { "contenu" : "Les parasites et les germes sont tués par la chaleur."},
 	    "MEC18" : { "contenu" : "Les males grenouilles remplissent et dégonfle d'air deux packs vocaux situés des deux cotés pour produire le chant."},
 	    "MEC19" : { "contenu" : "Les vibration captées par des mecanorecepteurs induisent une augmentation du sucres dans le nectar."},
-	    "MEC20" : { "contenu" : "L'abeille perçoit le gout et le parfum grâce à ses antennes."}
+	    "MEC20" : { "contenu" : "L'abeille perçoit le gout et le parfum grâce à ses antennes."},
+	    "MEC21" : { "contenu" : "La région cerveau des corps pédonculés inscrit les souvenirs récents dans la mémoire à long terme. Elle est composée de 350 000 cellules de Kenyon." },
+	    "MEC22" : { "contenu" : "La tectonique des plaques."}
 	},
 	"OBS" : {
 	    "OBS1" : {"contenu": "Le sexe du crocodile est determine par la temperature d'expostion de l'oeuf.  "},
@@ -308,8 +326,12 @@
 	    "OBS107" : { "contenu" : "La diminution du poids du foetus de 17g par degrès et par mois."},
 	    "OBS108" : { "contenu" : "25% de la biodiveristé totale vit dans le sol."},
 	    "OBS109" : { "contenu" : "Certaines fleurs ont des formes identifiables pour les chauve souris. Elles renvoient les sons amplifiés comme des miroirs sonores."},
-	    "OBS110" : { "contenu" : "1859 la grotte d'Altamira, plafond entierement peint de plus de 2 métres. L'environement est incommade et dangereux entré endroit incommode"}
-	},
+	    "OBS110" : { "contenu" : "1859 la découverte de la grotte d'Altamira, plafond entierement peint de plus de 2 métres. L'environement est incommade et dangereux entré endroit incommode"},
+	    "OBS111" : { "contenu" : "Certaines fleurs resssemble aux femelles guêpes pour attirer les males."},
+	    "OBS112" : { "contenu" : "Les fossiles de même espèces ont été retrouvés sur deux continents."},
+	    "OBS113" : { "contenu" : "Les mineraux sont les même sur les deux endroits continents."},
+	    "OBS114" : { "contenu" : "De la lave remonte chaque jour des failles oceaniques."}
+	},"}
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
 	    "SCI2" : { "annee": "2006", "pays": "", "contenu": "Des chercheur ont transfomé une cellule de peau en cellule embryonnaire en la forcant a utiliser quatre gènes : cellules souches pluripotentes induites."},
@@ -606,6 +628,24 @@
 		["IDE110", "OBS109"],
 		["CON19", "DOM52"],
 		["OBS110", "IDE112"],
+		["IDE113", "DOM53"],
+		["CON20", "DOM54"],
+		["DOM54", "IDE114"],
+		["IDE115", "MEC21"],
+		["DOM43", "IDE115"],
+		["IDE116", "DOM55"],
+		["CON21", "DOM55"],
+		["IDE117", "DOM43"],
+		["IDE118", "DOM42"],
+		["IDE118", "DOM43"],
+		["OBS111", "IDE118"],
+		["IDE119", "DOM45"],
+		["IDE120", "DOM45"],
+		["IDE121", "OBS112"],
+		["IDE121", "OBS113"],
+		["IDE121", "OBS114"],
+		["IDE121", "MEC22"],
+		["DOM56", "IDE122"],
 		["OBS110", "IDE111"]
 	]
 }
