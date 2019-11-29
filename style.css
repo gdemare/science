@@ -101,6 +101,15 @@ header {
   text-transform : capitalize;
 }
 
+#section {
+  color: var(--color-titre);
+}
+
+#titre {
+  font-size: 1.5em;
+  color: var(--color-boiteH2)
+}
+
 /*************************
 page
 /*************************/
