@@ -76,6 +76,8 @@
 	    "DOM55" : { "contenu" : "Les alcaloïdes des subsances attractive à faible dose et toxique en forte."},
 	    "DOM56" : { "contenu" : "La planète Terre."},
 	    "DOM57" : { "contenu" : "La domestication d'espèces par l'Homme"},
+	    "DOM58" : { "contenu" : "La domestication du feu"},
+	    "DOM59" : { "contenu" : "La présence d'eau sur la Terre."},
 	},
 	"IDE" : {
 	    "IDE1" : { "contenu": "L'environnement modifie les gene actifs des cellules."},
@@ -197,6 +199,10 @@
 	    "IDE122" : { "contenu" : "Les océans représente 71% de la surface terrestre."},
 	    "IDE123" : { "contenu" : "Le premier animal domestiqué par l'Homme est le chien."},
 	    "IDE124" : { "contenu" : "Les instruments de musique"},
+	    "IDE125" : { "contenu" : "L'agriculture la domestication des plantes."},
+	    "IDE126" : { "contenu" : "Le feu est le propre de l'Homme."},
+	    "IDE127" : { "contenu" : "L'eau est le principale composant chimique du corps humain. Il représente 2/3 du poids du corps."},
+		
 	},
 	"MEC" : {
 	    "MEC2" : { "contenu" : "Les cellules souches embryonnaires ont accès à tous les genes."},
@@ -335,7 +341,11 @@
 	    "OBS113" : { "contenu" : "Les mineraux sont les même sur les deux endroits continents."},
 	    "OBS114" : { "contenu" : "De la lave remonte chaque jour des failles oceaniques."},
 	    "OBS115" : { "contenu" : "La découvert d'un chien descendant de loups dans les monts Altaï datant de 33 000 ans."},
-
+	    "OBS116" : { "contenu" : "Découverte d'une flûte en os de vautour dans la grotte de Hohle Fels en Allemagne daté de 33 000 ans."},
+	    "OBS117" : { "contenu" : "Les chiens présents de nos jours sont des descendants des loup gris qui ont été domestiqué il y a 15 000ans."},
+	    "OBS118" : { "contenu" : "L'agriculture à débuté il y a 12 000ans dans plusieurs regions dans le monde."},
+	    "OBS119" : { "contenu" : "L'usage controlé et régulier du feu culture Acheuléen ouyils de piere taillé notament biface."},
+	    "OBS120" : { "contenu" : ""},
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
