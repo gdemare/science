@@ -74,7 +74,8 @@
 	    "DOM53" : { "contenu" : "L'Art graphique"},
 	    "DOM54" : { "contenu" : "Sytème recepteur de la dopamine."},
 	    "DOM55" : { "contenu" : "Les alcaloïdes des subsances attractive à faible dose et toxique en forte."},
-	    "DOM56" : { "contenu" : "La planète Terre."}
+	    "DOM56" : { "contenu" : "La planète Terre."},
+	    "DOM57" : { "contenu" : "La domestication d'espèces par l'Homme"},
 	},
 	"IDE" : {
 	    "IDE1" : { "contenu": "L'environnement modifie les gene actifs des cellules."},
@@ -193,7 +194,9 @@
 	    "IDE119" : { "contenu" : "Le chamanisme, le monde des esprits sont à porter de main. Les rites permettent de rentrer en contact."},
 	    "IDE120" : { "contenu" : "Les religion monotéistes ou les voies de dieu sont impénétrables."},
 	    "IDE121" : { "contenu" : "La théorie de la dérive des continents."},
-	    "IDE122" : { "contenu" : "Les océans représente 71% de la surface terrestre."}
+	    "IDE122" : { "contenu" : "Les océans représente 71% de la surface terrestre."},
+	    "IDE123" : { "contenu" : "Le premier animal domestiqué par l'Homme est le chien."},
+	    "IDE124" : { "contenu" : "Les instruments de musique"},
 	},
 	"MEC" : {
 	    "MEC2" : { "contenu" : "Les cellules souches embryonnaires ont accès à tous les genes."},
@@ -330,7 +333,9 @@
 	    "OBS111" : { "contenu" : "Certaines fleurs resssemble aux femelles guêpes pour attirer les males."},
 	    "OBS112" : { "contenu" : "Les fossiles de même espèces ont été retrouvés sur deux continents."},
 	    "OBS113" : { "contenu" : "Les mineraux sont les même sur les deux endroits continents."},
-	    "OBS114" : { "contenu" : "De la lave remonte chaque jour des failles oceaniques."}
+	    "OBS114" : { "contenu" : "De la lave remonte chaque jour des failles oceaniques."},
+	    "OBS115" : { "contenu" : "La découvert d'un chien descendant de loups dans les monts Altaï datant de 33 000 ans."},
+
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
