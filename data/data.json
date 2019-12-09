@@ -201,7 +201,7 @@
 	    "IDE124" : { "contenu" : "Les instruments de musique"},
 	    "IDE125" : { "contenu" : "L'agriculture la domestication des plantes."},
 	    "IDE126" : { "contenu" : "Le feu est le propre de l'Homme."},
-	    "IDE127" : { "contenu" : "L'eau est le principale composant chimique du corps humain. Il représente 2/3 du poids du corps."},
+	    "IDE127" : { "contenu" : "L'eau est le principale composant chimique du corps humain. Il représente 2/3 du poids du corps."}
 		
 	},
 	"MEC" : {
@@ -344,8 +344,7 @@
 	    "OBS116" : { "contenu" : "Découverte d'une flûte en os de vautour dans la grotte de Hohle Fels en Allemagne daté de 33 000 ans."},
 	    "OBS117" : { "contenu" : "Les chiens présents de nos jours sont des descendants des loup gris qui ont été domestiqué il y a 15 000ans."},
 	    "OBS118" : { "contenu" : "L'agriculture à débuté il y a 12 000ans dans plusieurs regions dans le monde."},
-	    "OBS119" : { "contenu" : "L'usage controlé et régulier du feu culture Acheuléen ouyils de piere taillé notament biface."},
-	    "OBS120" : { "contenu" : ""},
+	    "OBS119" : { "contenu" : "L'usage controlé et régulier du feu culture Acheuléen ouyils de piere taillé notament biface."}
 	},
 	"SCI" : {
 	    "SCI1" : { "annee": "1996", "pays": "", "contenu": "Le noyau cellule souche est remplace par celui d'une cellule d'une chevre. La cellule souche se developpe normalement et donne naissance a une chevre cloné."},
@@ -661,6 +660,19 @@
 		["IDE121", "OBS114"],
 		["IDE121", "MEC22"],
 		["DOM56", "IDE122"],
-		["OBS110", "IDE111"]
+		["OBS110", "IDE111"],
+		["CON16", "DOM57"],
+		["DOM57", "IDE123"],
+		["IDE123", "OBS115"],
+		["OBS116", "IDE124"],
+		["IDE123", "OBS117"],
+		["DOM57", "IDE125"],
+		["IDE125", "OBS118"],
+		["CON10", "DOM57"],
+		["CON10", "DOM58"],
+		["DOM58", "IDE126"],
+		["IDE126", "OBS119"],
+		["DOM59", "CON11"],
+		["DOM59", "IDE127"]
 	]
 }
