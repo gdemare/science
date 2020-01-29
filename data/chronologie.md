@@ -17,5 +17,5 @@
 | -800 000 000	| naissance des premiers animaux. |
 | -1 000 000 000	|Le super continent Rodinia se forme et se fragmente. |
 | -3 500 000 000	| association des atomes formant de grandes molecules qui conrespond a la naissance d'orgnaisme, c'est apparition de la vie :  la biologie. |
-| -13 449 700 000	| Combinaison de la matiere et de l'energie sous la forme d'atome puis de molecule : chimique. |
+| -13 449 700 000	| Combinaison de la matiere et de l'energie sous la forme d'atome puis de molecule : chimie. |
 | -13 500 000 000	| Big bang creation de l'energie, de la matiere, du temps et de l'espace : physique. |
