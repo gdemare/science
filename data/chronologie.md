@@ -14,6 +14,7 @@
 | -2 500 000 | Naissance du genre homo. |
 | -10 000 000 | Ancetre commun au bonobo, chimpanzee et humain. |
 | -65 000 000	| Apparition des chauves souris. |
+| -130 000 000	| Apparition des abeilles. |
 | -800 000 000	| naissance des premiers animaux. |
 | -750 000 000	|Fragementation de Rodinia |
 | -1 100 000 000	| Formation du super continent Rodinia |
